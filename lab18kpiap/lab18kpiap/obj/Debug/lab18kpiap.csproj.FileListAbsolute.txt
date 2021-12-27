@@ -1,0 +1,7 @@
+C:\Users\Владимир\source\repos\lab18kpiap\lab18kpiap\bin\Debug\lab18kpiap.exe.config
+C:\Users\Владимир\source\repos\lab18kpiap\lab18kpiap\bin\Debug\lab18kpiap.exe
+C:\Users\Владимир\source\repos\lab18kpiap\lab18kpiap\bin\Debug\lab18kpiap.pdb
+C:\Users\Владимир\source\repos\lab18kpiap\lab18kpiap\obj\Debug\lab18kpiap.csproj.AssemblyReference.cache
+C:\Users\Владимир\source\repos\lab18kpiap\lab18kpiap\obj\Debug\lab18kpiap.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\lab18kpiap\lab18kpiap\obj\Debug\lab18kpiap.exe
+C:\Users\Владимир\source\repos\lab18kpiap\lab18kpiap\obj\Debug\lab18kpiap.pdb

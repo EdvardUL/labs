@@ -1,0 +1,7 @@
+C:\Users\Владимир\source\repos\lab18kpiap\Lab18.2\obj\Debug\Lab18.2.csproj.AssemblyReference.cache
+C:\Users\Владимир\source\repos\lab18kpiap\Lab18.2\obj\Debug\Lab18.2.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\lab18kpiap\Lab18.2\bin\Debug\Lab18.2.exe.config
+C:\Users\Владимир\source\repos\lab18kpiap\Lab18.2\bin\Debug\Lab18.2.exe
+C:\Users\Владимир\source\repos\lab18kpiap\Lab18.2\bin\Debug\Lab18.2.pdb
+C:\Users\Владимир\source\repos\lab18kpiap\Lab18.2\obj\Debug\Lab18.2.exe
+C:\Users\Владимир\source\repos\lab18kpiap\Lab18.2\obj\Debug\Lab18.2.pdb
