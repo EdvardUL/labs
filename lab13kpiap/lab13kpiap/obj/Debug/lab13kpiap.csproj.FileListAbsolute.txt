@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\lab13kpiap\lab13kpiap\bin\Debug\lab13kpiap.exe.config
+C:\Users\User\source\repos\lab13kpiap\lab13kpiap\bin\Debug\lab13kpiap.exe
+C:\Users\User\source\repos\lab13kpiap\lab13kpiap\bin\Debug\lab13kpiap.pdb
+C:\Users\User\source\repos\lab13kpiap\lab13kpiap\obj\Debug\lab13kpiap.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\lab13kpiap\lab13kpiap\obj\Debug\lab13kpiap.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\lab13kpiap\lab13kpiap\obj\Debug\lab13kpiap.exe
+C:\Users\User\source\repos\lab13kpiap\lab13kpiap\obj\Debug\lab13kpiap.pdb
+C:\Users\Владимир\source\repos\lab13kpiap\lab13kpiap\bin\Debug\lab13kpiap.exe.config
+C:\Users\Владимир\source\repos\lab13kpiap\lab13kpiap\bin\Debug\lab13kpiap.exe
+C:\Users\Владимир\source\repos\lab13kpiap\lab13kpiap\bin\Debug\lab13kpiap.pdb
+C:\Users\Владимир\source\repos\lab13kpiap\lab13kpiap\obj\Debug\lab13kpiap.csproj.AssemblyReference.cache
+C:\Users\Владимир\source\repos\lab13kpiap\lab13kpiap\obj\Debug\lab13kpiap.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\lab13kpiap\lab13kpiap\obj\Debug\lab13kpiap.exe
+C:\Users\Владимир\source\repos\lab13kpiap\lab13kpiap\obj\Debug\lab13kpiap.pdb
