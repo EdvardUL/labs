@@ -1,0 +1,14 @@
+C:\Users\Владимир\source\repos\lab12kpiap\lan12.2\bin\Debug\lan12.2.exe.config
+C:\Users\Владимир\source\repos\lab12kpiap\lan12.2\bin\Debug\lan12.2.exe
+C:\Users\Владимир\source\repos\lab12kpiap\lan12.2\bin\Debug\lan12.2.pdb
+C:\Users\Владимир\source\repos\lab12kpiap\lan12.2\obj\Debug\lan12.2.csproj.AssemblyReference.cache
+C:\Users\Владимир\source\repos\lab12kpiap\lan12.2\obj\Debug\lan12.2.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\lab12kpiap\lan12.2\obj\Debug\lan12.2.exe
+C:\Users\Владимир\source\repos\lab12kpiap\lan12.2\obj\Debug\lan12.2.pdb
+C:\Users\User\Desktop\lab12kpiap\lan12.2\bin\Debug\lan12.2.exe.config
+C:\Users\User\Desktop\lab12kpiap\lan12.2\bin\Debug\lan12.2.exe
+C:\Users\User\Desktop\lab12kpiap\lan12.2\bin\Debug\lan12.2.pdb
+C:\Users\User\Desktop\lab12kpiap\lan12.2\obj\Debug\lan12.2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\lab12kpiap\lan12.2\obj\Debug\lan12.2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\lab12kpiap\lan12.2\obj\Debug\lan12.2.exe
+C:\Users\User\Desktop\lab12kpiap\lan12.2\obj\Debug\lan12.2.pdb

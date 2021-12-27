@@ -1,0 +1,11 @@
+C:\Users\Владимир\source\repos\TimeLib_1\TimeLib_1\bin\Release\netcoreapp3.1\TimeLib_1.deps.json
+C:\Users\Владимир\source\repos\TimeLib_1\TimeLib_1\bin\Release\netcoreapp3.1\TimeLib_1.dll
+C:\Users\Владимир\source\repos\TimeLib_1\TimeLib_1\bin\Release\netcoreapp3.1\TimeLib_1.pdb
+C:\Users\Владимир\source\repos\TimeLib_1\TimeLib_1\bin\Release\netcoreapp3.1\TimeLib_1.xml
+C:\Users\Владимир\source\repos\TimeLib_1\TimeLib_1\obj\Release\netcoreapp3.1\TimeLib_1.csproj.AssemblyReference.cache
+C:\Users\Владимир\source\repos\TimeLib_1\TimeLib_1\obj\Release\netcoreapp3.1\TimeLib_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владимир\source\repos\TimeLib_1\TimeLib_1\obj\Release\netcoreapp3.1\TimeLib_1.AssemblyInfoInputs.cache
+C:\Users\Владимир\source\repos\TimeLib_1\TimeLib_1\obj\Release\netcoreapp3.1\TimeLib_1.AssemblyInfo.cs
+C:\Users\Владимир\source\repos\TimeLib_1\TimeLib_1\obj\Release\netcoreapp3.1\TimeLib_1.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\TimeLib_1\TimeLib_1\obj\Release\netcoreapp3.1\TimeLib_1.dll
+C:\Users\Владимир\source\repos\TimeLib_1\TimeLib_1\obj\Release\netcoreapp3.1\TimeLib_1.pdb

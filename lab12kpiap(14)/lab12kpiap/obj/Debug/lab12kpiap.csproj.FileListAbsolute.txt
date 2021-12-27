@@ -1,0 +1,14 @@
+C:\Users\Владимир\source\repos\lab12kpiap\lab12kpiap\bin\Debug\lab12kpiap.exe.config
+C:\Users\Владимир\source\repos\lab12kpiap\lab12kpiap\bin\Debug\lab12kpiap.exe
+C:\Users\Владимир\source\repos\lab12kpiap\lab12kpiap\bin\Debug\lab12kpiap.pdb
+C:\Users\Владимир\source\repos\lab12kpiap\lab12kpiap\obj\Debug\lab12kpiap.csproj.AssemblyReference.cache
+C:\Users\Владимир\source\repos\lab12kpiap\lab12kpiap\obj\Debug\lab12kpiap.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\lab12kpiap\lab12kpiap\obj\Debug\lab12kpiap.exe
+C:\Users\Владимир\source\repos\lab12kpiap\lab12kpiap\obj\Debug\lab12kpiap.pdb
+C:\Users\User\Desktop\lab12kpiap\lab12kpiap\bin\Debug\lab12kpiap.exe.config
+C:\Users\User\Desktop\lab12kpiap\lab12kpiap\bin\Debug\lab12kpiap.exe
+C:\Users\User\Desktop\lab12kpiap\lab12kpiap\bin\Debug\lab12kpiap.pdb
+C:\Users\User\Desktop\lab12kpiap\lab12kpiap\obj\Debug\lab12kpiap.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\lab12kpiap\lab12kpiap\obj\Debug\lab12kpiap.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\lab12kpiap\lab12kpiap\obj\Debug\lab12kpiap.exe
+C:\Users\User\Desktop\lab12kpiap\lab12kpiap\obj\Debug\lab12kpiap.pdb
