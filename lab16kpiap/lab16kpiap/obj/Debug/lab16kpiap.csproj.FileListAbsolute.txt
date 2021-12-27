@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\lab16kpiap\lab16kpiap\bin\Debug\lab16kpiap.exe.config
+C:\Users\User\source\repos\lab16kpiap\lab16kpiap\bin\Debug\lab16kpiap.exe
+C:\Users\User\source\repos\lab16kpiap\lab16kpiap\bin\Debug\lab16kpiap.pdb
+C:\Users\User\source\repos\lab16kpiap\lab16kpiap\obj\Debug\lab16kpiap.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\lab16kpiap\lab16kpiap\obj\Debug\lab16kpiap.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\lab16kpiap\lab16kpiap\obj\Debug\lab16kpiap.exe
+C:\Users\User\source\repos\lab16kpiap\lab16kpiap\obj\Debug\lab16kpiap.pdb
