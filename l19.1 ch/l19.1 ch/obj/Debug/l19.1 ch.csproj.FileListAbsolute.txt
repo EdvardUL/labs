@@ -1,0 +1,7 @@
+D:\l19.1 ch\l19.1 ch\bin\Debug\l19.1 ch.exe.config
+D:\l19.1 ch\l19.1 ch\bin\Debug\l19.1 ch.exe
+D:\l19.1 ch\l19.1 ch\bin\Debug\l19.1 ch.pdb
+D:\l19.1 ch\l19.1 ch\obj\Debug\l19.1 ch.csproj.AssemblyReference.cache
+D:\l19.1 ch\l19.1 ch\obj\Debug\l19.1 ch.csproj.CoreCompileInputs.cache
+D:\l19.1 ch\l19.1 ch\obj\Debug\l19.1 ch.exe
+D:\l19.1 ch\l19.1 ch\obj\Debug\l19.1 ch.pdb
