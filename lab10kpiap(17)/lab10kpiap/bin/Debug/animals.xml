@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Pet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <classify>doglike</classify>
+  <limbs>4</limbs>
+  <descendants>6</descendants>
+  <Classify>doglike</Classify>
+  <Limbs>4</Limbs>
+  <Descendants>6</Descendants>
+  <nickname>Booze</nickname>
+  <Nickname>Booze</Nickname>
+</Pet>

@@ -1,0 +1,7 @@
+C:\Users\Владимир\source\repos\lab10kpiap\lab10kpiap\bin\Debug\lab10kpiap.exe.config
+C:\Users\Владимир\source\repos\lab10kpiap\lab10kpiap\bin\Debug\lab10kpiap.exe
+C:\Users\Владимир\source\repos\lab10kpiap\lab10kpiap\bin\Debug\lab10kpiap.pdb
+C:\Users\Владимир\source\repos\lab10kpiap\lab10kpiap\obj\Debug\lab10kpiap.csproj.AssemblyReference.cache
+C:\Users\Владимир\source\repos\lab10kpiap\lab10kpiap\obj\Debug\lab10kpiap.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\lab10kpiap\lab10kpiap\obj\Debug\lab10kpiap.exe
+C:\Users\Владимир\source\repos\lab10kpiap\lab10kpiap\obj\Debug\lab10kpiap.pdb
