@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\lab13PP\lab13PP\bin\Debug\lab13PP.exe.config
+C:\Users\User\source\repos\lab13PP\lab13PP\bin\Debug\lab13PP.exe
+C:\Users\User\source\repos\lab13PP\lab13PP\bin\Debug\lab13PP.pdb
+C:\Users\User\source\repos\lab13PP\lab13PP\obj\Debug\lab13PP.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\lab13PP\lab13PP\obj\Debug\lab13PP.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\lab13PP\lab13PP\obj\Debug\lab13PP.exe
+C:\Users\User\source\repos\lab13PP\lab13PP\obj\Debug\lab13PP.pdb
