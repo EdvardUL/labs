@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="lab112PP.Adventurer">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAEAAACAAQAKAAEAAgAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Adventurer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab112PP.ClassPaladin">
+    <Position X="1.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAACABACAgAAAAAAAAAAAAAIAAAAAEAAEAAQAACAE=</HashCode>
+      <FileName>ClassPaladin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab112PP.ClassRogue">
+    <Position X="6" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAEAAAQBACAAAAAAAAAAAAAAAAAAAAAAIAAAAQAACAA=</HashCode>
+      <FileName>ClassRogue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab112PP.ClassWarlock">
+    <Position X="10.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAhACAAIAAAAAAAAAAAAAAAAAEAAAAAAAAASAA=</HashCode>
+      <FileName>ClassWarlock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab112PP.Component1" Collapsed="true">
+    <Position X="16.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Component1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab112PP.MagicTrickster">
+    <Position X="3.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAIAAAACACAAAAAAAQAAAAA=</HashCode>
+      <FileName>MagicTrickster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab112PP.OathOfRevenge">
+    <Position X="1.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAEAAAAAACAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OathOfRevenge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab112PP.PatronElder">
+    <Position X="12.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAEAACAAAAAAAAAAAAAAAAAAACAAAAAAAAAAQAA=</HashCode>
+      <FileName>PatronElder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab112PP.PatronFiend">
+    <Position X="10.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAEAACAAAAAAAAAAAAAAAAAAACAAAAAAAAAAQAA=</HashCode>
+      <FileName>PatronFiend.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab112PP.Program" Collapsed="true">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab112PP.SacredOath">
+    <Position X="3.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAACAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SacredOath.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab112PP.Thief">
+    <Position X="8.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAIAAAACACAAAAAAAQAAAAA=</HashCode>
+      <FileName>Thief.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

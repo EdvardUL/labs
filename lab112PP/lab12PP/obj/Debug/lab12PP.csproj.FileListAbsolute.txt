@@ -1,0 +1,7 @@
+C:\Users\Владимир\Desktop\lab112PP\lab12PP\bin\Debug\lab12PP.exe.config
+C:\Users\Владимир\Desktop\lab112PP\lab12PP\bin\Debug\lab12PP.exe
+C:\Users\Владимир\Desktop\lab112PP\lab12PP\bin\Debug\lab12PP.pdb
+C:\Users\Владимир\Desktop\lab112PP\lab12PP\obj\Debug\lab12PP.csproj.AssemblyReference.cache
+C:\Users\Владимир\Desktop\lab112PP\lab12PP\obj\Debug\lab12PP.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\Desktop\lab112PP\lab12PP\obj\Debug\lab12PP.exe
+C:\Users\Владимир\Desktop\lab112PP\lab12PP\obj\Debug\lab12PP.pdb
