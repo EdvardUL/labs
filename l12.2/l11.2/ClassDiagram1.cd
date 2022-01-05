@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="l11._2.BattleCruiser">
+    <Position X="2.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgABAAAAIQAEAAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BattleCruiser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="l11._2.Caster">
+    <Position X="15.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAgAAAAABAAAEAAAAAAAEAAABCAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Chen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="l11._2.Creature">
+    <Position X="13.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAACAAAAAgEQAACBEAAAgAAAAAQgAACE=</HashCode>
+      <FileName>Creature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="l11._2.CreaturesArray">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIAAEAAAACAABQRCAAAFAQgAAAAAAAACICAAABQIBA=</HashCode>
+      <FileName>CreaturesArray.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="l11._2.HG">
+    <Position X="11.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgEAAAAAgAAEQAAAAEAAAAAAAAAAACAAAAAgAAA=</HashCode>
+      <FileName>HG.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="l11._2.Kansen">
+    <Position X="4.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QABAAkAAAAAAIABEACAAQAAAAQAEAAEAAAAAAAAIACA=</HashCode>
+      <FileName>Kansen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="l11._2.MG">
+    <Position X="9.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgEAAAAAgAAEQAAAAEAAAAAAAAAAACAAAAAgAAA=</HashCode>
+      <FileName>MG.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="l11._2.Operator">
+    <Position X="15" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QABAAkAAAAAAAAAEAAAAAAAAAAAFAAAAAQAAAAAAACA=</HashCode>
+      <FileName>Operator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="l11._2.Program">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="l11._2.TDoll">
+    <Position X="7" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QABAAkAAAAAAAAQEAAAAAAACAAAEAgAAAAAAAAAAADA=</HashCode>
+      <FileName>TDoll.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
