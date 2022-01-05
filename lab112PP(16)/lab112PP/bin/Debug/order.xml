@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ClassPaladin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <age>44</age>
+  <Age>44</Age>
+  <Name>Flint</Name>
+  <Race>Dwarf</Race>
+  <Gender>Male</Gender>
+  <Lvl>3</Lvl>
+  <Idol>Eelastree</Idol>
+  <Ideology>lawful</Ideology>
+</ClassPaladin>

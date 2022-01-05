@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\lab112PP\lab131PP\bin\Debug\lab131PP.exe.config
+C:\Users\User\Desktop\lab112PP\lab131PP\bin\Debug\lab131PP.exe
+C:\Users\User\Desktop\lab112PP\lab131PP\bin\Debug\lab131PP.pdb
+C:\Users\User\Desktop\lab112PP\lab131PP\obj\Debug\lab131PP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\lab112PP\lab131PP\obj\Debug\lab131PP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\lab112PP\lab131PP\obj\Debug\lab131PP.exe
+C:\Users\User\Desktop\lab112PP\lab131PP\obj\Debug\lab131PP.pdb

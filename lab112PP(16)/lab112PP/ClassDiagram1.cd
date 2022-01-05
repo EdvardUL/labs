@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="lab112PP.Adventurer">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAEAAACAAQAKAAEAAgAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Adventurer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab112PP.ClassPaladin">
+    <Position X="1.5" Y="1.75" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="lab112PP.ClassPaladin.AdventurerHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ClassPaladin.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAEAACABACCgAAQAAAAAAAAAAKIAAAAEAAEAAQAACBE=</HashCode>
+      <FileName>ClassPaladin.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="lab112PP.ClassRogue">
+    <Position X="6" Y="4.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="lab112PP.ClassRogue.AdventurerHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ClassRogue.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>BAEAAAQBACCAAAAAAAAAAAAAACIAAAAAIAAAAQAACAE=</HashCode>
+      <FileName>ClassRogue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab112PP.ClassWarlock">
+    <Position X="10.5" Y="1.75" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="lab112PP.ClassWarlock.AdventurerHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ClassWarlock.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAEAAAAhACCAIAAAAAAAAAAAACIAAAEAAAAAAQAASAE=</HashCode>
+      <FileName>ClassWarlock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab112PP.Component1" Collapsed="true">
+    <Position X="16.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Component1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab112PP.MagicTrickster">
+    <Position X="3.75" Y="6" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="lab112PP.MagicTrickster.AdventurerHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MagicTrickster.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACCAAAAAAAAAAAIAACICACAAAAAAAQAAAAA=</HashCode>
+      <FileName>MagicTrickster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab112PP.OathOfRevenge">
+    <Position X="1.5" Y="7.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="lab112PP.OathOfRevenge.AdventurerHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>OathOfRevenge.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>IAEAAAAAACCAAAAAAAAAAAAAAKIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OathOfRevenge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab112PP.PatronElder">
+    <Position X="12.5" Y="2.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="lab112PP.PatronElder.AdventurerHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PatronElder.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AQAAAAEAACCAAAAAAAAAAAAAACIAACAAAAAAAAAAQAA=</HashCode>
+      <FileName>PatronElder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab112PP.PatronFiend">
+    <Position X="10.5" Y="7.25" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="lab112PP.PatronFiend.AdventurerHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PatronFiend.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AQAAAAEAACCAAAAAAAAAAAAAACIAACAAAAAAAAAAQAA=</HashCode>
+      <FileName>PatronFiend.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab112PP.Program" Collapsed="true">
+    <Position X="16.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab112PP.SacredOath">
+    <Position X="3.25" Y="2.75" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="lab112PP.SacredOath.AdventurerHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>SacredOath.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAACCAAAAAAAAAAAAAAKAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SacredOath.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab112PP.Thief">
+    <Position X="8.25" Y="6" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="lab112PP.Thief.AdventurerHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Thief.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACCAAAAAAAAAAAIAACICACAAAAAAAQAAAAA=</HashCode>
+      <FileName>Thief.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
